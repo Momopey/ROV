@@ -130,5 +130,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #http://root:Hkis1234@10.39.15.5/axis-cgi/mjpg/video.cgi
+    
 
