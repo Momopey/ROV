@@ -132,5 +132,3 @@ if __name__ == "__main__":
     main()
     #http://root:Hkis1234@10.39.15.5/axis-cgi/mjpg/video.cgi
 
-#to run the program, type this in the terminal
-#/usr/local/bin/python3.7 thread_demo.py -s 'http://10.39.12.153:8081/?action=stream.jpg' -t=get -s2 'http://10.39.12.153:8082/?action=stream.jpg'
